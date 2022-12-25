@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "dgSpecHash": "LUeeHVIqaoxWsFP2Zcx5F75pfibBtrzbifLbL+rDX+tWX0L5dq6F3BBBXhkvcTNVY/d+B1uArXbC+EHu/NMwDg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\API\\WebApiPractice\\MiddlewareExample\\MiddlewareExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thamsanqa Mpofu\\.nuget\\packages\\antlr\\3.4.1.9004\\antlr.3.4.1.9004.nupkg.sha512",
+    "C:\\Users\\Thamsanqa Mpofu\\.nuget\\packages\\newtonsoft.json\\5.0.4\\newtonsoft.json.5.0.4.nupkg.sha512",
+    "C:\\Users\\Thamsanqa Mpofu\\.nuget\\packages\\webgrease\\1.6.0\\webgrease.1.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Antlr 3.4.1.9004' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Antlr",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 5.0.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WebGrease 1.6.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WebGrease",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
