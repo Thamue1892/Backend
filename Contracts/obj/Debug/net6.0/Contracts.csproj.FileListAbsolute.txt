@@ -1,0 +1,12 @@
+E:\Projects\API\WebApiPractice\Contracts\bin\Debug\net6.0\Contracts.deps.json
+E:\Projects\API\WebApiPractice\Contracts\bin\Debug\net6.0\Contracts.dll
+E:\Projects\API\WebApiPractice\Contracts\bin\Debug\net6.0\Contracts.pdb
+E:\Projects\API\WebApiPractice\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+E:\Projects\API\WebApiPractice\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\API\WebApiPractice\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+E:\Projects\API\WebApiPractice\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+E:\Projects\API\WebApiPractice\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+E:\Projects\API\WebApiPractice\Contracts\obj\Debug\net6.0\Contracts.dll
+E:\Projects\API\WebApiPractice\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+E:\Projects\API\WebApiPractice\Contracts\obj\Debug\net6.0\Contracts.pdb
+E:\Projects\API\WebApiPractice\Contracts\obj\Debug\net6.0\ref\Contracts.dll

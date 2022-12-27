@@ -1,0 +1,17 @@
+E:\Projects\API\WebApiPractice\Repository\bin\Debug\net6.0\Repository.deps.json
+E:\Projects\API\WebApiPractice\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+E:\Projects\API\WebApiPractice\Repository\bin\Debug\net6.0\Repository.dll
+E:\Projects\API\WebApiPractice\Repository\bin\Debug\net6.0\Repository.pdb
+E:\Projects\API\WebApiPractice\Repository\bin\Debug\net6.0\Entities.dll
+E:\Projects\API\WebApiPractice\Repository\bin\Debug\net6.0\Entities.pdb
+E:\Projects\API\WebApiPractice\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+E:\Projects\API\WebApiPractice\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\API\WebApiPractice\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+E:\Projects\API\WebApiPractice\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+E:\Projects\API\WebApiPractice\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+E:\Projects\API\WebApiPractice\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+E:\Projects\API\WebApiPractice\Repository\obj\Debug\net6.0\Repository.dll
+E:\Projects\API\WebApiPractice\Repository\obj\Debug\net6.0\refint\Repository.dll
+E:\Projects\API\WebApiPractice\Repository\obj\Debug\net6.0\Repository.pdb
+E:\Projects\API\WebApiPractice\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+E:\Projects\API\WebApiPractice\Repository\obj\Debug\net6.0\ref\Repository.dll
