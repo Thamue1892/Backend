@@ -13,3 +13,5 @@ E:\Projects\API\WebApiPractice\Service.Contracts\obj\Debug\net6.0\ref\Service.Co
 E:\Projects\API\WebApiPractice\Service.Contracts\bin\Debug\net6.0\Entities.dll
 E:\Projects\API\WebApiPractice\Service.Contracts\bin\Debug\net6.0\Entities.pdb
 E:\Projects\API\WebApiPractice\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CopyComplete
+E:\Projects\API\WebApiPractice\Service.Contracts\bin\Debug\net6.0\Shared.dll
+E:\Projects\API\WebApiPractice\Service.Contracts\bin\Debug\net6.0\Shared.pdb

@@ -17,3 +17,5 @@ E:\Projects\API\WebApiPractice\Service\obj\Debug\net6.0\Service.pdb
 E:\Projects\API\WebApiPractice\Service\obj\Debug\net6.0\ref\Service.dll
 E:\Projects\API\WebApiPractice\Service\bin\Debug\net6.0\Entities.dll
 E:\Projects\API\WebApiPractice\Service\bin\Debug\net6.0\Entities.pdb
+E:\Projects\API\WebApiPractice\Service\bin\Debug\net6.0\Shared.dll
+E:\Projects\API\WebApiPractice\Service\bin\Debug\net6.0\Shared.pdb
