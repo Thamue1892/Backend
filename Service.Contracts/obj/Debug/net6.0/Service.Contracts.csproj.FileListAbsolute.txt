@@ -10,3 +10,6 @@ E:\Projects\API\WebApiPractice\Service.Contracts\obj\Debug\net6.0\Service.Contra
 E:\Projects\API\WebApiPractice\Service.Contracts\obj\Debug\net6.0\refint\Service.Contracts.dll
 E:\Projects\API\WebApiPractice\Service.Contracts\obj\Debug\net6.0\Service.Contracts.pdb
 E:\Projects\API\WebApiPractice\Service.Contracts\obj\Debug\net6.0\ref\Service.Contracts.dll
+E:\Projects\API\WebApiPractice\Service.Contracts\bin\Debug\net6.0\Entities.dll
+E:\Projects\API\WebApiPractice\Service.Contracts\bin\Debug\net6.0\Entities.pdb
+E:\Projects\API\WebApiPractice\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CopyComplete

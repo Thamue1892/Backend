@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Service.Contracts/1.0.0": {
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "runtime": {
           "Service.Contracts.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "runtime": {
+          "Entities.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Service.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

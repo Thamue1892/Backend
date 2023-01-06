@@ -1,0 +1,17 @@
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.deps.json
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.dll
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.pdb
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\bin\Debug\net6.0\Entities.dll
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\bin\Debug\net6.0\Service.Contracts.dll
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\bin\Debug\net6.0\Service.Contracts.pdb
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\bin\Debug\net6.0\Entities.pdb
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.csproj.AssemblyReference.cache
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.AssemblyInfoInputs.cache
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.AssemblyInfo.cs
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.csproj.CoreCompileInputs.cache
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.csproj.CopyComplete
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.dll
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\obj\Debug\net6.0\refint\CompanyEmployees.Presentation.dll
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.pdb
+E:\Projects\API\WebApiPractice\CompanyEmployees.Presentation\obj\Debug\net6.0\ref\CompanyEmployees.Presentation.dll

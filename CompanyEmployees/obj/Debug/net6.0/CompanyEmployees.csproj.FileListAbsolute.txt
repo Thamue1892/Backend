@@ -95,3 +95,6 @@ E:\Projects\API\WebApiPractice\CompanyEmployees\bin\Debug\net6.0\Service.Contrac
 E:\Projects\API\WebApiPractice\CompanyEmployees\bin\Debug\net6.0\Service.dll
 E:\Projects\API\WebApiPractice\CompanyEmployees\bin\Debug\net6.0\Service.pdb
 E:\Projects\API\WebApiPractice\CompanyEmployees\bin\Debug\net6.0\Service.Contracts.pdb
+E:\Projects\API\WebApiPractice\CompanyEmployees\bin\Debug\net6.0\CompanyEmployees.Presentation.dll
+E:\Projects\API\WebApiPractice\CompanyEmployees\bin\Debug\net6.0\CompanyEmployees.Presentation.pdb
+E:\Projects\API\WebApiPractice\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs

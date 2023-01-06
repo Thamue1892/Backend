@@ -13,3 +13,5 @@ E:\Projects\API\WebApiPractice\LoggerService\obj\Debug\net6.0\LoggerService.dll
 E:\Projects\API\WebApiPractice\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
 E:\Projects\API\WebApiPractice\LoggerService\obj\Debug\net6.0\LoggerService.pdb
 E:\Projects\API\WebApiPractice\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
+E:\Projects\API\WebApiPractice\LoggerService\bin\Debug\net6.0\Entities.dll
+E:\Projects\API\WebApiPractice\LoggerService\bin\Debug\net6.0\Entities.pdb
