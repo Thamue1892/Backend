@@ -100,3 +100,5 @@ E:\Projects\API\WebApiPractice\CompanyEmployees\bin\Debug\net6.0\CompanyEmployee
 E:\Projects\API\WebApiPractice\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
 E:\Projects\API\WebApiPractice\CompanyEmployees\bin\Debug\net6.0\Shared.dll
 E:\Projects\API\WebApiPractice\CompanyEmployees\bin\Debug\net6.0\Shared.pdb
+E:\Projects\API\WebApiPractice\CompanyEmployees\bin\Debug\net6.0\AutoMapper.dll
+E:\Projects\API\WebApiPractice\CompanyEmployees\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
