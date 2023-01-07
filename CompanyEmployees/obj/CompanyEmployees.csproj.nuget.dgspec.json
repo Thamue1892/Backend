@@ -199,6 +199,9 @@
             "projectReferences": {
               "E:\\Projects\\API\\WebApiPractice\\Entities\\Entities.csproj": {
                 "projectPath": "E:\\Projects\\API\\WebApiPractice\\Entities\\Entities.csproj"
+              },
+              "E:\\Projects\\API\\WebApiPractice\\Shared\\Shared.csproj": {
+                "projectPath": "E:\\Projects\\API\\WebApiPractice\\Shared\\Shared.csproj"
               }
             }
           }

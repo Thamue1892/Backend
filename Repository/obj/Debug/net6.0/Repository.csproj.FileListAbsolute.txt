@@ -17,3 +17,5 @@ E:\Projects\API\WebApiPractice\Repository\obj\Debug\net6.0\Repository.genruntime
 E:\Projects\API\WebApiPractice\Repository\obj\Debug\net6.0\ref\Repository.dll
 E:\Projects\API\WebApiPractice\Repository\bin\Debug\net6.0\Contracts.dll
 E:\Projects\API\WebApiPractice\Repository\bin\Debug\net6.0\Contracts.pdb
+E:\Projects\API\WebApiPractice\Repository\bin\Debug\net6.0\Shared.dll
+E:\Projects\API\WebApiPractice\Repository\bin\Debug\net6.0\Shared.pdb
